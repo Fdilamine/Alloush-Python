@@ -5,8 +5,6 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "README.md",
-        "main.py"
       ]
     },
     "vscode": {
